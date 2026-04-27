@@ -1,1 +1,1 @@
-current_count=0
+current_count=1
